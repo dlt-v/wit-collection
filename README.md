@@ -1,4 +1,4 @@
-# wit-collection
+# wit-złota-kolekcja
 A quick lookup table for courses I saved as independent repositories from my university. GitHub really should add some kind of folders man...
 
 #### 5 - Semestr zimowy 2021/2022
