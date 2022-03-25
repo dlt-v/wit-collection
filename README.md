@@ -7,4 +7,4 @@ A quick lookup table for courses I saved as independent repositories from my uni
 #### 6 - Semestr letni 2021/2022
 - [I-ASD2-DP  -  Algorytmy i struktury danych 2 (Sęp)](https://github.com/dlt-v/i-asd2-dp)
 - [I-PSC-DP  -  Programowanie w języku C# (Barski)](https://github.com/dlt-v/i-psc-dp)
-- [I-JAV-DP - Programowanie w języku Java (Sosnowski)](https://github.com/dlt-v/i-jav-dp)
+- [I-JAV-DP - Programowanie w języku Java (Sosnowski)](https://github.com/dlt-v/l-java-dp)
