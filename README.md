@@ -9,3 +9,4 @@ A quick lookup table for courses I saved as independent repositories from my uni
 - [I-PSC-DP  -  Programowanie w języku C# (Barski)](https://github.com/dlt-v/i-psc-dp)
 - [I-JAV-DP - Programowanie w języku Java (Sosnowski)](https://github.com/dlt-v/l-java-dp)
 - [I-SKR-DP - Systemy kryprograficzne (Mroczkowski)](https://github.com/dlt-v/i-skr-dp)
+- [I-APO-DP - Algorytmy przetwarzania obrazu - laboratorium (Roszkowiak)](https://github.com/dlt-v/raster-lab)
